@@ -8,7 +8,7 @@ In the Multiple Linear Regression (MLR) lesson, we have partnered with the Stree
 
 It has the following fields:
 
-Headers | Less |
+Headers | Description |
 --- | --- |
 `rental_id` | rental ID
 `building_id` | building ID
