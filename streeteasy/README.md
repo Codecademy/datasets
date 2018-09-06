@@ -27,5 +27,5 @@ It has the following fields:
 
 Thank you StreetEasy for this partnership and especially:
 
-[Grant Long](https://streeteasy.com/blog/author/grantlong/), Sr. Economist
-[Lauren Riefflin](https://streeteasy.com/blog/author/lauren/), Sr. Marketing Manager
+- [Grant Long](https://streeteasy.com/blog/author/grantlong/), Sr. Economist
+- [Lauren Riefflin](https://streeteasy.com/blog/author/lauren/), Sr. Marketing Manager
