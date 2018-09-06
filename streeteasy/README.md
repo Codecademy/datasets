@@ -4,10 +4,18 @@
 
 In the Multiple Linear Regression (MLR) lesson, we have partnered with the StreetEasy Research team and you will be working with a .csv file that contains a sample of 5,000 rentals listings in `Manhattan`, `Brooklyn`, and `Queens`, active on StreetEasy in June 2016.
 
+(The data is somewhat spottier in Bronx and Staten Island, so we decided to confine this to Brooklyn, Queens, and Manhattan.)
+
 It has the following fields:
 
-- `rental_id` - rental ID
-- `building_id` - building ID
+Headers | Less |
+--- | --- |
+`rental_id` | rental ID
+`building_id` | building ID
+
+
+
+
 - `rent` - price of rent ($)
 - `bedrooms` - number of bedrooms
 - `bathrooms` - number of bathrooms
