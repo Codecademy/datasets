@@ -2,7 +2,7 @@
 
 [StreetEasy](www.streeteasy.com) is New York City's leading real estate marketplace — from studios to high-rises, Brooklyn Heights to Harlem.
 
-In the Multiple Linear Regression (MLR) lesson, we have partnered with the StreetEasy Research team and you will be working with a .csv file that contains a sample of 5,000 rentals listings in `Manhattan`, `Brooklyn`, and `Queens`, active on StreetEasy in June 2016.
+In the Multiple Linear Regression (MLR) lesson, we have partnered with the StreetEasy Research team. You will be working with a **.csv** file that contains a sample of 5,000 rentals listings in `Manhattan`, `Brooklyn`, and `Queens`, active on StreetEasy in June 2016.
 
 It has the following fields:
 
