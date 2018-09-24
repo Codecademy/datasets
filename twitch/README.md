@@ -2,7 +2,7 @@
 
 https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project
 
-[Twitch](www.twitch.tv) is the world's leading video platform and community where millions of people and thousands of interests collide in a beautiful explosion of video games, pop culture, and conversation.
+[Twitch.tv](www.twitch.tv) is the world's leading video platform and community where millions of people and thousands of interests collide in a beautiful explosion of video games, pop culture, and conversation.
 
 In the Data Science Path Cumulative Project, we have partnered with Twitch Science Team and we were given two related tables that describ user engagmeent with Twitch video and Twitch chat:
 
