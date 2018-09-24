@@ -37,9 +37,6 @@ Thank you StreetEasy for this partnership and especially:
 
 - [Grant Long](https://streeteasy.com/blog/author/grantlong/), Sr. Economist, StreetEasy
 - [Lauren Riefflin](https://streeteasy.com/blog/author/lauren/), Sr. Marketing Manager, StreetEasy
-
-And QA from:
-
 - Philipp Kats, Data Scientist, StreetEasy
 - Simon Rimmele, Data Scientist, StreetEasy
 - Nancy Wu, Economic Data Analyst, Street Easy
