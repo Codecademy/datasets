@@ -13,7 +13,7 @@ The `stream.csv` has the following fields:
 
 Headers | Description |
 --- | --- |
-`time` | (YYYY-MM-DD HH:MM:SS)
+`time` | date and time (YYYY-MM-DD HH:MM:SS)
 `device_id` | device ID (scrubbed)
 `login` | login ID (scrubbed)
 `channel` | streamer name
