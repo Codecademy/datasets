@@ -6,8 +6,9 @@ https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project
 
 In the Data Science Path Cumulative Project, we have partnered with Twitch Science Team and we were given two related tables that describ user engagmeent with Twitch video and Twitch chat:
 
-- chat.csv
-- stream.csv
+- [x] [`stream.csv`](/stream.csv)  
+- [x] [`chat.csv`](/chat.csv)  
+
 
 It has the following fields:
 
