@@ -39,7 +39,7 @@ Headers | Description |
 
 ---
 
-Thank you Twitch Science for this partnership and especially:
+Thank you Twitch Science Team for this partnership and especially:
 
 - [June Dershewitz](https://twitter.com/jdersh), Head of Data Governance & Analytics, Twitch
 - [Carson Forter](https://twitter.com/carsonforter), Data Scientist, Twitch
