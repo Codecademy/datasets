@@ -6,13 +6,13 @@ In the Learn SQL from Scratch Capstone Project, we have partnered with Warby Par
 
 Quiz Funnel:
 
-- survey
+- [`survey.csv`](survey.csv)
 
 Home Try-On Funnel:
 
-- quiz
-- home_try_on
-- purchase
+- [`quiz.csv`](quiz.csv)
+- [`home_try_on.csv`](home_try_on.csv)
+- [`purchase.csv`](purchase.csv)
 
 ---
 
