@@ -37,6 +37,8 @@ Headers | Description |
 `stream_format` | floor number
 `subscriber` | building age (year)
 
+---
+
 Thank you Twitch Science for this partnership and especially:
 
 - [June Dershewitz](https://twitter.com/jdersh), Head of Data Governance & Analytics, Twitch
