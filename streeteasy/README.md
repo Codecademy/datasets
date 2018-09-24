@@ -1,4 +1,4 @@
-# StreetEasy
+# Codecademy + StreetEasy
 
 [StreetEasy](www.streeteasy.com) is New York City's leading real estate marketplace — from studios to high-rises, Brooklyn Heights to Harlem.
 
