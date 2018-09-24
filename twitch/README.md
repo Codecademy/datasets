@@ -1,8 +1,13 @@
-# StreetEasy
+# Codecademy + Twitch
 
-[StreetEasy](www.streeteasy.com) is New York City's leading real estate marketplace — from studios to high-rises, Brooklyn Heights to Harlem.
+https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project
 
-In the Multiple Linear Regression (MLR) lesson, we have partnered with the StreetEasy Research team. You will be working with a **.csv** file that contains a sample of 5,000 rentals listings in `Manhattan`, `Brooklyn`, and `Queens`, active on StreetEasy in June 2016.
+[Twitch](www.twitch.tv) is the world's leading video platform and community where millions of people and thousands of interests collide in a beautiful explosion of video games, pop culture, and conversation.
+
+In the Data Science Path Cumulative Project, we have partnered with Twitch Science Team and we were given two related tables that describ user engagmeent with Twitch video and Twitch chat:
+
+- chat.csv
+- stream.csv
 
 It has the following fields:
 
