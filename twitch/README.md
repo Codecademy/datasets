@@ -2,7 +2,7 @@
 
 https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project
 
-[Twitch.tv](www.twitch.tv) is the world's leading video platform and community where millions of people and thousands of interests collide in a beautiful explosion of video games, pop culture, and conversation.
+[Twitch.tv](www.twitch.tv) is the world's leading live streaming platform for gamers, with over 15 million daily active users. Using data to understand its users and products is one of the main responsibilities of the Twitch Science Team.
 
 In the Data Science Path Cumulative Project, we have partnered with the [Twitch Science Team](https://science.twitch.tv/) and we were given a scrubbed dataset (800,000 rows) that describe user engagmeent with Twitch stream and Twitch chat on January 1st, 2015:
 
